@@ -14,11 +14,11 @@ I build and deploy AI systems, from model training and LLM pipelines to APIs and
 
 ## 🚀 Featured Projects
 
-**[Resume-IQ]([https://github.com/suleman12344/YOUR-REPO](https://github.com/suleman12344/resume_screener))**: AI resume screening platform. An LLM agent (LLaMA 3.3 70B via Groq) reads PDF/DOCX resumes and returns ranked candidates with scores, verdicts, and gap analysis. Built with Next.js, FastAPI, PostgreSQL (Supabase), and Prisma, and deployed on Vercel and Railway.
+**[Resume-IQ](https://github.com/suleman12344/resume_screener)**: AI resume screening platform. An LLM agent (LLaMA 3.3 70B via Groq) reads PDF/DOCX resumes and returns ranked candidates with scores, verdicts, and gap analysis. Built with Next.js, FastAPI, PostgreSQL (Supabase), and Prisma, and deployed on Vercel and Railway.
 
-**[AI Architect]([https://github.com/suleman12344/YOUR-REPO](https://github.com/suleman12344/AI_Architect))**: Generates 2D house floor plans from text prompts, with a design-suggestion chatbot, 3D mockups, and RAG-based semantic search. Built with PyTorch, LangChain, Pinecone, and Three.js.
+**[AI Architect](https://github.com/suleman12344/AI_Architect)**: Generates 2D house floor plans from text prompts, with a design-suggestion chatbot, 3D mockups, and RAG-based semantic search. Built with PyTorch, LangChain, Pinecone, and Three.js.
 
-**[Dine E-commerce]([https://github.com/suleman12344/YOUR-REPO](https://github.com/suleman12344/ecommerce-clothing))**: Full-stack clothing store with a cart system and reusable UI components, built with Next.js, React, and Tailwind CSS.
+**[Dine E-commerce](https://github.com/suleman12344/ecommerce-clothing)**: Full-stack clothing store with a cart system and reusable UI components, built with Next.js, React, and Tailwind CSS.
 
 ## 💻 Tech Stack
 
@@ -42,7 +42,7 @@ I build and deploy AI systems, from model training and LLM pipelines to APIs and
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-suleman-goraya/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suleman-portfolio-three.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsulemanlahore@gmail.com)
 
 ## 📊 GitHub Stats
