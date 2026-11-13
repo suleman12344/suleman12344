@@ -41,7 +41,7 @@ I build and deploy AI systems, from model training and LLM pipelines to APIs and
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/muhammad-suleman-goraya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-suleman-goraya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsulemanlahore@gmail.com)
 
